@@ -8,6 +8,6 @@ Specific for 1920 x 1080 pixels desktop size
 
 # File Structure
 - `index.html`: Main homepage
-- `css/`: Contains CSS files for styling
-- `js/`: Contains JavaScript files
-- `img/`: Contains images used in the website
+- `style.css/`: Contains CSS files for styling
+- `script.js/`: Contains JavaScript files
+- `images/`: Contains images used in the website
